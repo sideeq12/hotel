@@ -104,3 +104,58 @@ span{
     text-align: left;
     color: #ffffff;
 }
+#meeting{
+    font-size: 120px; 
+    color: #c5a880;
+    font-family: sans-serif;
+    text-align: center;
+}
+.events{
+    display: flex;
+    flex-direction: row;
+}
+.array{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    margin-bottom: 50px;
+}
+.set{
+    height: 95%;
+    margin: 3%;
+    width: 22%;
+    text-align: center;
+}
+.footer{
+    margin-top: 100px;
+    height: 500px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: #682c0e;
+    justify-content: center;
+    align-items: center;
+}
+.level{
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+}
+.left, .right{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.left{
+    border-right: 2px solid #ffffff;
+    margin-right: 50px;
+    padding-right: 50px;
+}
+.social{
+    width: 100%;
+    height: 30px;
+}
