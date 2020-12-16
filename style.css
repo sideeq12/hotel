@@ -95,3 +95,12 @@ span{
     height: 80%;
     width: 30%;
 }
+.und{
+    display: flex;
+    flex-direction: column;
+}
+.und p{
+    margin-top: 20px;
+    text-align: left;
+    color: #ffffff;
+}
